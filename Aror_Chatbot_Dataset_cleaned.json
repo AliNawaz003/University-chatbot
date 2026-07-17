@@ -1,0 +1,1771 @@
+[
+  {
+    "id": "admission_01",
+    "text": "All undergraduate degree programs are full-time morning programs and students are not allowed to engage in employment or enroll in another institution simultaneously.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_02",
+    "text": "Admission in each discipline is granted purely on the basis of merit as defined in the admission policy.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_03",
+    "text": "Applications for admission must be submitted through the official online application form.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_04",
+    "text": "An application processing fee of Rs. 1500 is required to appear in the entry test and is non-refundable.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_05",
+    "text": "Applicants qualifying for more than one discipline must select their preferred discipline in the application form.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_06",
+    "text": "Admissions are offered to candidates in each discipline strictly in order of merit.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_07",
+    "text": "Overall merit is calculated based on matriculation, intermediate or equivalent, entry test, and interview performance.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_08",
+    "text": "Original documents must be presented at the time of interview as a mandatory requirement.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_09",
+    "text": "Admission will be canceled if a candidate submits fake or tampered documents and legal action may be taken.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_10",
+    "text": "Candidates may be debarred for up to three years and fees will be forfeited if fraudulent documents are used.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_11",
+    "text": "Entry test is mandatory for eligible candidates and details such as date, time, and venue are provided on the admit card.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_12",
+    "text": "Candidates are not allowed to appear in the entry test without the original admit card.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_13",
+    "text": "Entry test consists of 100 questions with no negative marking and each correct answer carries one mark.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_14",
+    "text": "The merit formula includes 10% matriculation, 20% intermediate, 60% entry test, and 10% interview weightage.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_15",
+    "text": "Composite Percentage Number (CPN) is calculated using weighted scores from academic records, entry test, and interview.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_16",
+    "text": "Admissions are granted based on merit and availability of seats in each discipline.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_17",
+    "text": "In case of equal merit, preference is given to candidates with higher entry test marks.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_18",
+    "text": "Candidates who are Hafiz-e-Quran may receive additional 20 marks upon passing the Hifz test.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_19",
+    "text": "A deduction of 1% per year is applied for academic gaps after SSC, with a maximum allowable gap of three years.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_20",
+    "text": "Merit lists are displayed on university notice boards and official website.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_21",
+    "text": "Candidates must appear for interview with original documents, otherwise they will be disqualified.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_22",
+    "text": "Failure to appear in interview without prior notice will result in removal from the merit list.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_23",
+    "text": "Admission is confirmed only after submission of required forms including ID card and enrollment form.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_24",
+    "text": "Candidates must submit admission fees within the due date or their seat will be offered to another candidate.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "admission_25",
+    "text": "Admissions close two weeks after the start of classes and no new admissions are accepted afterward.",
+    "category": "admissions",
+    "source": "prospectus"
+  },
+  {
+    "id": "faculty_01",
+    "text": "The Faculty of Architecture, Sciences, Engineering and Town Planning provides a safe, professional, and supportive learning environment.",
+    "category": "faculty",
+    "source": "website"
+  },
+  {
+    "id": "faculty_02",
+    "text": "The faculty promotes creativity, intellectual growth, personal development, and career advancement among students.",
+    "category": "faculty",
+    "source": "website"
+  },
+  {
+    "id": "faculty_03",
+    "text": "The faculty is committed to accessibility, ethical practices, inclusivity, and sustainability in education.",
+    "category": "faculty",
+    "source": "website"
+  },
+  {
+    "id": "faculty_04",
+    "text": "The Faculty of Architecture, Sciences, Engineering and Town Planning offers programs in Architecture, Civil Engineering, Environmental Sciences, and Climate Change and Sustainable Development.",
+    "category": "faculty",
+    "source": "website"
+  },
+  {
+    "id": "program_01",
+    "text": "The university offers a Bachelor of Architecture (B.Arch) program with a duration of five years.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "program_02",
+    "text": "The university offers a Bachelor of Science in Civil Engineering program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "program_03",
+    "text": "The university offers a Bachelor of Science in Environmental Sciences program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "program_04",
+    "text": "The university offers a Bachelor of Science in Climate Change and Sustainable Development program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "visualart_01",
+    "text": "The BS Visual Art program focuses on developing students' artistic skills, analytical ability, and creative vision through structured coursework.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "visualart_02",
+    "text": "The program aims to enhance students' professional quality and broaden their artistic horizons through both practical and theoretical learning.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "visualart_03",
+    "text": "Students in the BS Visual Art program develop strong modeling skills and gain fundamental theoretical knowledge in fine arts.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "visualart_04",
+    "text": "The program prepares students to create artistic work with an understanding of both traditional practices and contemporary art trends.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "visualart_05",
+    "text": "The BS Visual Art program includes both studio-based and theory-based courses.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "visualart_06",
+    "text": "Students are introduced to major disciplines including Painting, Printmaking and Digital Art, Sculpture, and Miniature Painting during the second year.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "visualart_07",
+    "text": "Students select a specialization in one major discipline during their third and fourth years of study.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "visualart_08",
+    "text": "Studio Drawing, electives, and Fine Art Seminar courses help students develop an individual artistic approach.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "visualart_09",
+    "text": "The university offers a BS Visual Arts program with a duration of four years.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "visualart_10",
+    "text": "The university offers a BS Digital Art program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "design_01",
+    "text": "The Faculty of Design offers a Bachelor of Science in Textile Design program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "design_02",
+    "text": "The Faculty of Design offers a Bachelor of Science in Fashion Design program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "design_03",
+    "text": "The Faculty of Design offers a Bachelor of Science in Ceramic Design program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "heritage_01",
+    "text": "The Faculty of Heritage focuses on providing quality education, skill development, and character building for students.",
+    "category": "faculty",
+    "source": "website"
+  },
+  {
+    "id": "heritage_02",
+    "text": "The faculty uses modern teaching methods and provides access to well-equipped classrooms and laboratories.",
+    "category": "faculty",
+    "source": "website"
+  },
+  {
+    "id": "heritage_03",
+    "text": "The Faculty of Heritage offers a Bachelor of Science in Archaeology program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "heritage_04",
+    "text": "The Faculty of Heritage offers a Bachelor of Science in Tourism and Hospitality program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "heritage_05",
+    "text": "The Faculty of Heritage offers a Bachelor of Science in Pakistan Studies program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "heritage_06",
+    "text": "The Faculty of Heritage offers a Bachelor of Science in History program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "emerging_01",
+    "text": "The Faculty of Emerging Sciences and Technology focuses on developing skills in artificial intelligence, gaming, and advanced computing fields.",
+    "category": "faculty",
+    "source": "website"
+  },
+  {
+    "id": "emerging_02",
+    "text": "The faculty aims to train students to think critically and solve emerging technological problems.",
+    "category": "faculty",
+    "source": "website"
+  },
+  {
+    "id": "emerging_03",
+    "text": "The faculty provides a blended learning approach that includes classroom teaching, research, and hands-on training.",
+    "category": "faculty",
+    "source": "website"
+  },
+  {
+    "id": "emerging_04",
+    "text": "The Faculty of Emerging Sciences and Technology offers a Bachelor of Science in Artificial Intelligence program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "emerging_05",
+    "text": "The Faculty of Emerging Sciences and Technology offers a Bachelor of Science in Multimedia and Gaming program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "emerging_06",
+    "text": "The Faculty of Emerging Sciences and Technology offers a Bachelor of Science in Cyber Security program.",
+    "category": "programs",
+    "source": "website"
+  },
+  {
+    "id": "exam_01",
+    "text": "The university follows a semester system with two regular semesters in each academic year: Fall and Spring.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_02",
+    "text": "Four-year degree programs require a minimum of 124 credit hours and a maximum of 144 credit hours.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_03",
+    "text": "Five-year degree programs require a minimum of 160 credit hours and may extend up to 180 to 222 credit hours.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_04",
+    "text": "Each semester has a minimum teaching duration of 16 weeks.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_05",
+    "text": "The standard course duration for a four-year BS program is eight semesters, with a maximum duration of seven years.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_06",
+    "text": "The standard course duration for a five-year program is ten semesters, with a possible one-year extension approved by the Academic Council.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_07",
+    "text": "Regular full-time students may register for 15 to 18 credit hours per Fall or Spring semester in a four-year program.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_08",
+    "text": "Regular full-time students may register for 18 to 23 credit hours per Fall or Spring semester in a five-year program.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_09",
+    "text": "The examination system may include quizzes, tests, mid-semester exams, final exams, presentations, group discussions, projects, assignments, lab reports, and studio work.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_10",
+    "text": "Theory assessment is distributed as 30 marks for sessional work, 30 marks for midterm examinations, and 40 marks for final examinations.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_11",
+    "text": "Practical assessment is distributed as 20 marks for the practical exam, 15 marks for viva or discussion or presentation, and 15 marks for manuals or project files.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_12",
+    "text": "The academic year includes two regular semesters, one summer or winter semester, and scheduled breaks, totaling 52 weeks.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_13",
+    "text": "The summer or winter semester is an optional eight-week session offered for deficiency removal, course failure, grade improvement, or course withdrawal cases.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_14",
+    "text": "Students may register for up to 8 credit hours in the summer or winter semester.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_15",
+    "text": "The summer or winter semester requires doubled contact hours per week to complete the course in half the duration of a regular semester.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_16",
+    "text": "The university does not offer supplementary or special examinations after adoption of the summer or winter semester system.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_17",
+    "text": "The minimum course registration for the summer or winter semester is five students, or 50 percent failure students where intake is small.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_18",
+    "text": "If fewer students register, they may be shifted to the next year's summer or winter semester.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_19",
+    "text": "The university or program cannot offer both summer and winter semesters in the same academic year.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_20",
+    "text": "The academic calendar is prepared by the Controller of Examinations in consultation with Deans, Heads of Departments, and Academic Coordinators.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_21",
+    "text": "The academic calendar includes class start dates, mid-semester exams, class suspension dates, examination schedules, sessional or CAT marks, exam preparation, result announcement, and transcript issue dates.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_22",
+    "text": "If the university closes due to unusual circumstances, makeup classes may be arranged through weekends, holidays, or evening classes.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_23",
+    "text": "Students may withdraw from a course during the first six weeks of the semester without affecting CGPA.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_24",
+    "text": "If a course is withdrawn after six weeks, the student is automatically awarded an F grade, which counts in GPA and remains on the transcript.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_25",
+    "text": "Students repeating a withdrawn course must pay the full course fee again.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_26",
+    "text": "Students who receive an F grade must repeat the course, and the original F grade will also remain on the transcript.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_27",
+    "text": "Students may repeat a course in which they earned a D grade or below, and only the better grade will be used in CGPA calculation.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_28",
+    "text": "Improved grades are recorded on the transcript with the notation Imp.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_29",
+    "text": "The grading system includes letter grades from A+ to F, along with special grades for incomplete, withdrawn, and exempted courses.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_30",
+    "text": "A student who freezes a semester resumes studies from the same stage after re-admission, and freezing is allowed only after successful completion of the first semester.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_31",
+    "text": "A semester freeze is allowed for one year, and re-admission is granted in the semester where the student discontinued studies.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_32",
+    "text": "Unfair means cases are handled by a committee approved by the Academic Council, consisting of academic and examination officials.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_33",
+    "text": "If a student is caught cheating, the invigilator must immediately report the case to the Head Invigilator and Controller of Examinations.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_34",
+    "text": "A student who admits cheating may have the paper canceled and may be allowed to appear in the next year's semester examination.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_35",
+    "text": "A student who resists handing over cheating material may face semester freeze after repeated warnings.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_36",
+    "text": "A student who misbehaves or creates disturbance during an unfair means case may be expelled from the university.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_37",
+    "text": "A student may appeal the decision of the Unfair Means Cases Committee to the Vice-Chancellor within one week.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_38",
+    "text": "Visually impaired or physically handicapped students may be allowed to use a writer or computer-based assistance in examinations with approval from the Controller of Examinations.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_39",
+    "text": "A helper for a disabled student must be at least one academic level lower than the student.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_40",
+    "text": "The Controller of Examinations may allow up to 45 minutes of extra time for a student with special needs.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_41",
+    "text": "Medals and positions are awarded only to students who pass courses in the first attempt.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_42",
+    "text": "Positions are awarded on the basis of CGPA, and medals are not given to students who improve grades in later attempts.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_43",
+    "text": "No position is awarded in disciplines with fewer than five students.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_44",
+    "text": "Students with a GPA or CGPA between 1.70 and 2.00 are placed on probation.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_45",
+    "text": "A student may be placed on probation twice before being subject to term back policy.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "exam_46",
+    "text": "A student who remains below a CGPA of 2.00 after two consecutive probations may be term-backed and required to repeat the semester.",
+    "category": "examination",
+    "source": "prospectus"
+  },
+  {
+    "id": "arch_faculty_01",
+    "text": "Dr. Javaria Manzoor Shaikh is an Associate Professor and Chairperson of the Department of Architecture and Town Planning.",
+    "name": "Dr. Javaria Manzoor Shaikh",
+    "designation": "Associate Professor",
+    "role": "Chairperson",
+    "department": "Architecture and Town Planning",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "arch_faculty_02",
+    "text": "Ar. Mehnaz Soomro is an Assistant Professor in the Department of Architecture.",
+    "name": "Ar. Mehnaz Soomro",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Architecture",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "arch_faculty_03",
+    "text": "Ar. Raja Zafar Ali is a Lecturer in the Department of Architecture.",
+    "name": "Ar. Raja Zafar Ali",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Architecture",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "arch_faculty_04",
+    "text": "Ar. Faraz Hussain is a Lecturer in the Department of Architecture.",
+    "name": "Ar. Faraz Hussain",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Architecture",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "arch_faculty_05",
+    "text": "Ar. Khuda Bux Phulpoto is an Assistant Professor in the Department of Architecture.",
+    "name": "Ar. Khuda Bux Phulpoto",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Architecture",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "arch_faculty_06",
+    "text": "Ar. Wamiq Khan is an Assistant Professor in the Department of Architecture.",
+    "name": "Ar. Wamiq Khan",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Architecture",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "arch_faculty_07",
+    "text": "Ar. Birrah Agha is a Lecturer in the Department of Architecture.",
+    "name": "Ar. Birrah Agha",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Architecture",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "civil_faculty_01",
+    "text": "Dr. Narain Das is an Assistant Professor and Chairman Incharge in the Department of Civil Engineering.",
+    "name": "Dr. Narain Das",
+    "designation": "Assistant Professor",
+    "role": "Chairman Incharge",
+    "department": "Civil Engineering",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "civil_faculty_02",
+    "text": "Dr. Muhammad Tahir is an Assistant Professor in the Department of Civil Engineering.",
+    "name": "Dr. Muhammad Tahir",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Civil Engineering",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "civil_faculty_03",
+    "text": "Engr. Gulzar Hussain is a Lecturer in the Department of Civil Engineering and is currently on study leave.",
+    "name": "Engr. Gulzar Hussain",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Civil Engineering",
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "civil_faculty_04",
+    "text": "Engr. Sadaquat Hussain is a Lecturer in the Department of Civil Engineering.",
+    "name": "Engr. Sadaquat Hussain",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Civil Engineering",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "civil_faculty_05",
+    "text": "Engr. Abdul Manan is a Lecturer in the Department of Civil Engineering.",
+    "name": "Engr. Abdul Manan",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Civil Engineering",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "civil_faculty_06",
+    "text": "Engr. Abu Zar is a Lecturer in the Department of Civil Engineering.",
+    "name": "Engr. Abu Zar",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Civil Engineering",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "civil_faculty_07",
+    "text": "Mubashir Ali is a Lab Engineer in the Department of Civil Engineering.",
+    "name": "Mubashir Ali",
+    "designation": "Lab Engineer",
+    "role": null,
+    "department": "Civil Engineering",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "civil_faculty_08",
+    "text": "Dr. Mujtaba Hassan is an Assistant Professor in the Department of Civil Engineering.",
+    "name": "Dr. Mujtaba Hassan",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Civil Engineering",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "civil_faculty_09",
+    "text": "Dr. Muneer Ahmed is an Assistant Professor in the Department of Civil Engineering.",
+    "name": "Dr. Muneer Ahmed",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Civil Engineering",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "civil_faculty_10",
+    "text": "Engr. Shuban Ali is a Lecturer in the Department of Civil Engineering and is currently on study leave.",
+    "name": "Engr. Shuban Ali",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Civil Engineering",
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "civil_faculty_11",
+    "text": "Engr. Nizakat Ali is a Lecturer in the Department of Civil Engineering.",
+    "name": "Engr. Nizakat Ali",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Civil Engineering",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "civil_faculty_12",
+    "text": "Engr. Mashood Rehman Memon is a Lecturer in the Department of Civil Engineering.",
+    "name": "Engr. Mashood Rehman Memon",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Civil Engineering",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "civil_faculty_13",
+    "text": "Farhana Mukhtiar is a Lab Engineer in the Department of Civil Engineering.",
+    "name": "Farhana Mukhtiar",
+    "designation": "Lab Engineer",
+    "role": null,
+    "department": "Civil Engineering",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "env_faculty_01",
+    "text": "Dr. Altaf Alam is an Associate Professor and Chairman of the Department of Environmental Sciences.",
+    "name": "Dr. Altaf Alam",
+    "designation": "Associate Professor",
+    "role": "Chairman",
+    "department": "Environmental Sciences",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "env_faculty_02",
+    "text": "Dr. Sabab Ali Shah is an Assistant Professor in the Department of Environmental Science and is currently on study leave.",
+    "name": "Dr. Sabab Ali Shah",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Environmental Science",
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "env_faculty_03",
+    "text": "Engr. Tayyab Ahmed is a Lecturer in the Department of Environmental Science and is currently on study leave.",
+    "name": "Engr. Tayyab Ahmed",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Environmental Science",
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "env_faculty_04",
+    "text": "Mr. Zafarullah Rind is a Lecturer in the Department of Environmental Science.",
+    "name": "Mr. Zafarullah Rind",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Environmental Science",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "env_faculty_05",
+    "text": "Fida Hussain is a Lecturer in the Department of Zoology.",
+    "name": "Fida Hussain",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Zoology",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "env_faculty_06",
+    "text": "Mr. Hamza Hussain is a Lab Engineer in the Department of Environmental Science.",
+    "name": "Mr. Hamza Hussain",
+    "designation": "Lab Engineer",
+    "role": null,
+    "department": "Environmental Science",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "env_faculty_07",
+    "text": "Dr. Akhtar Hussain is an Assistant Professor in the Department of Environmental Science.",
+    "name": "Dr. Akhtar Hussain",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Environmental Science",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "env_faculty_08",
+    "text": "Mr. Ghulam Nabi Mahar is a Lecturer in the Department of Environmental Science.",
+    "name": "Mr. Ghulam Nabi Mahar",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Environmental Science",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "env_faculty_09",
+    "text": "Mr. Zohaib Ali is a Lecturer in the Department of Environmental Science.",
+    "name": "Mr. Zohaib Ali",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Environmental Science",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "env_faculty_10",
+    "text": "Mr. Waheed Ali is a Lecturer in the Department of Environmental Science.",
+    "name": "Mr. Waheed Ali",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Environmental Science",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "env_faculty_11",
+    "text": "Dr. Muhammad Waris is a Lecturer in the Department of Chemistry.",
+    "name": "Dr. Muhammad Waris",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Chemistry",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fa_faculty_01",
+    "text": "Zahid Hussain is an Assistant Professor in the Department of Fine Art.",
+    "name": "Zahid Hussain",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Fine Art",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fa_faculty_02",
+    "text": "Habib Rahman is an Assistant Professor and Chairman Incharge of the Department of Visual Art.",
+    "name": "Habib Rahman",
+    "designation": "Assistant Professor",
+    "role": "Chairman Incharge",
+    "department": "Visual Art",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fa_faculty_03",
+    "text": "Shoukat Ali Mangi is a Lecturer in the Department of Fine Art.",
+    "name": "Shoukat Ali Mangi",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Fine Art",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fa_faculty_04",
+    "text": "Aqsa Ahad is a Lecturer in the Department of Fine Art.",
+    "name": "Aqsa Ahad",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Fine Art",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fa_faculty_05",
+    "text": "Musadiq Badar is an Assistant Professor in the Department of Fine Art and is currently on study leave.",
+    "name": "Musadiq Badar",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Fine Art",
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fa_faculty_06",
+    "text": "Kashif Ali is a Lecturer in the Department of Fine Art.",
+    "name": "Kashif Ali",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Fine Art",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fa_faculty_07",
+    "text": "Ali Murtaza is a Lecturer in the Department of Fine Art and is currently on study leave.",
+    "name": "Ali Murtaza",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Fine Art",
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fa_faculty_08",
+    "text": "Salal Bugti is a Lecturer in the Department of Ceramic Design.",
+    "name": "Salal Bugti",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Ceramic Design",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "textile_faculty_01",
+    "text": "Dr. Mujahid Mehdi is an Assistant Professor in the Department of Textile Design and is currently on study leave.",
+    "name": "Dr. Mujahid Mehdi",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Textile Design",
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "textile_faculty_02",
+    "text": "Raheel Ahmed is a Lecturer in the Department of Textile Design and is currently on study leave.",
+    "name": "Raheel Ahmed",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Textile Design",
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "textile_faculty_03",
+    "text": "Afsheen Soomro is a Lecturer in the Department of Textile Design.",
+    "name": "Afsheen Soomro",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Textile Design",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "textile_faculty_04",
+    "text": "Savara is a Lecturer in the Department of Textile Design.",
+    "name": "Savara",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Textile Design",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "textile_faculty_05",
+    "text": "Najeeb ur Rehman is an Assistant Professor and Chairman Incharge of the Department of Textile Design.",
+    "name": "Najeeb ur Rehman",
+    "designation": "Assistant Professor",
+    "role": "Chairman Incharge",
+    "department": "Textile Design",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "textile_faculty_06",
+    "text": "Bushra Shaikh is a Lecturer in the Department of Textile Design and is currently on study leave.",
+    "name": "Bushra Shaikh",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Textile Design",
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "textile_faculty_07",
+    "text": "Shaheen Fatima is a Lecturer in the Department of Textile Design.",
+    "name": "Shaheen Fatima",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Textile Design",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "textile_faculty_08",
+    "text": "Fasiha Noor is a Lecturer in the Department of Textile Design.",
+    "name": "Fasiha Noor",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Textile Design",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fashion_faculty_01",
+    "text": "Prof. Dr. Zamir Ahmed Abro is the Dean and a Professor in the Faculty of Design.",
+    "name": "Prof. Dr. Zamir Ahmed Abro",
+    "designation": "Professor",
+    "role": "Dean",
+    "department": "Faculty of Design",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fashion_faculty_02",
+    "text": "Urooj Asghar is an Assistant Professor and Chairperson Incharge of the Department of Fashion Design.",
+    "name": "Urooj Asghar",
+    "designation": "Assistant Professor",
+    "role": "Chairperson Incharge",
+    "department": "Fashion Design",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fashion_faculty_03",
+    "text": "Farheen Baig is a Teaching Assistant in the Department of Fashion Design.",
+    "name": "Farheen Baig",
+    "designation": "Teaching Assistant",
+    "role": null,
+    "department": "Fashion Design",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fashion_faculty_04",
+    "text": "Samina Begum is an Assistant Professor in the Department of Fashion Design.",
+    "name": "Samina Begum",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Fashion Design",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fashion_faculty_05",
+    "text": "Murtaza Baloch is a Lecturer in the Department of Fashion Design.",
+    "name": "Murtaza Baloch",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Fashion Design",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "fashion_faculty_06",
+    "text": "Usman Saeed is a Studio Demonstrator in the Department of Fashion Design.",
+    "name": "Usman Saeed",
+    "designation": "Studio Demonstrator",
+    "role": null,
+    "department": "Fashion Design",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_01",
+    "text": "Professor Ghulam Hussain Manganhar is a Professor of Practice in the Department of English.",
+    "name": "Professor Ghulam Hussain Manganhar",
+    "designation": "Professor of Practice",
+    "role": null,
+    "department": "English",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_02",
+    "text": "Shafique Ahmed Khan is a Lecturer and is currently on study leave.",
+    "name": "Shafique Ahmed Khan",
+    "designation": "Lecturer",
+    "role": null,
+    "department": null,
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_03",
+    "text": "Kamran Siraj is a Lecturer in the Department of History.",
+    "name": "Kamran Siraj",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "History",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_04",
+    "text": "Zahid Ali is a Lecturer in the Department of History.",
+    "name": "Zahid Ali",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "History",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_05",
+    "text": "Fatima Dayo is a Lecturer and Incharge of Allied Faculty including English, Mathematics and Islamiyat.",
+    "name": "Fatima Dayo",
+    "designation": "Lecturer",
+    "role": "Incharge",
+    "department": "Allied Faculty",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_06",
+    "text": "Saeed Ahmed is a Lecturer in the Department of English.",
+    "name": "Saeed Ahmed",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "English",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_07",
+    "text": "Rabnawaz Mallah is a Lecturer in the Department of Mathematics.",
+    "name": "Rabnawaz Mallah",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Mathematics",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_08",
+    "text": "Yasir Ali is a Lecturer in the Department of Mathematics.",
+    "name": "Yasir Ali",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Mathematics",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_09",
+    "text": "Rizwana is a Lecturer in the Department of English.",
+    "name": "Rizwana",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "English",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_10",
+    "text": "Habib Ali is a Lecturer in the Department of Pakistan Studies.",
+    "name": "Habib Ali",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Pakistan Studies",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_11",
+    "text": "Museb Ali is a Lecturer in the Department of Mathematics.",
+    "name": "Museb Ali",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Mathematics",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_12",
+    "text": "Nabeel Ahmed is a Teaching Assistant in the Department of Mathematics.",
+    "name": "Nabeel Ahmed",
+    "designation": "Teaching Assistant",
+    "role": null,
+    "department": "Mathematics",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_13",
+    "text": "Muhammad Khalid Shafi is a Professor of Practice in the Department of Islamic Studies.",
+    "name": "Muhammad Khalid Shafi",
+    "designation": "Professor of Practice",
+    "role": null,
+    "department": "Islamic Studies",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_14",
+    "text": "Dr. Muhammad Qasim Sodhar is an Assistant Professor and Chairman Incharge of History, Pakistan Studies and Archaeology departments.",
+    "name": "Dr. Muhammad Qasim Sodhar",
+    "designation": "Assistant Professor",
+    "role": "Chairman Incharge",
+    "department": "History / Pakistan Studies / Archaeology",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_15",
+    "text": "Muhammad Amin is a Lecturer in the Department of Archaeology.",
+    "name": "Muhammad Amin",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Archaeology",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_16",
+    "text": "Dr. Rashid Ali is a Lecturer in the Department of Archaeology.",
+    "name": "Dr. Rashid Ali",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Archaeology",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_17",
+    "text": "Rahmatullah Shaikh is a Lecturer in the Department of Islamic History.",
+    "name": "Rahmatullah Shaikh",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Islamic History",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_18",
+    "text": "Shaista Murtaza is a Lecturer in the Department of English.",
+    "name": "Shaista Murtaza",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "English",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_19",
+    "text": "Ranjhan Ali is a Lecturer in the Department of Mathematics and is currently on study leave.",
+    "name": "Ranjhan Ali",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Mathematics",
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_20",
+    "text": "Zubair Ahmed is a Lecturer in the Department of English.",
+    "name": "Zubair Ahmed",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "English",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_21",
+    "text": "Adnan Ahmed is a Lecturer in the Department of English.",
+    "name": "Adnan Ahmed",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "English",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_22",
+    "text": "Nayab Wahid Soomro is a Lecturer in the Department of English.",
+    "name": "Nayab Wahid Soomro",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "English",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "allied_faculty_23",
+    "text": "Sarfaraz Ahmed is a Lecturer in the Department of Mathematics.",
+    "name": "Sarfaraz Ahmed",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Mathematics",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_01",
+    "text": "Prof. Dr. Faheem Akhtar is a Professor and Chairman of the Department of AI-Multimedia Gaming.",
+    "name": "Prof. Dr. Faheem Akhtar",
+    "designation": "Professor",
+    "role": "Chairman",
+    "department": "AI-Multimedia Gaming",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_02",
+    "text": "Dr. Irfan Ali is an Assistant Professor in the Department of Artificial Intelligence.",
+    "name": "Dr. Irfan Ali",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Artificial Intelligence",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_03",
+    "text": "Abdul Ghafoor is a Lecturer in the Department of AI-Multimedia Gaming and is currently on study leave.",
+    "name": "Abdul Ghafoor",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "AI-Multimedia Gaming",
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_04",
+    "text": "Fatima Jaffar is a Lecturer in the Department of Computer Science and is currently on study leave.",
+    "name": "Fatima Jaffar",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Computer Science",
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_05",
+    "text": "Ghulam Mustafa is a Lecturer in the Department of Computer Science and is currently on study leave.",
+    "name": "Ghulam Mustafa",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Computer Science",
+    "status": "On Study Leave",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_06",
+    "text": "Mir Faraz Ali is a Lecturer in the Department of Artificial Intelligence.",
+    "name": "Mir Faraz Ali",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Artificial Intelligence",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_07",
+    "text": "Rashida Naz is a Lecturer in the Department of Artificial Intelligence.",
+    "name": "Rashida Naz",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Artificial Intelligence",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_08",
+    "text": "Bilal Ahmed is a Lecturer in the Department of Artificial Intelligence.",
+    "name": "Bilal Ahmed",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Artificial Intelligence",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_09",
+    "text": "Abdul Khalique is a Lecturer in the Department of Artificial Intelligence.",
+    "name": "Abdul Khalique",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Artificial Intelligence",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_10",
+    "text": "Syed Hammad Aslam is an Instructor in Game Design and Development.",
+    "name": "Syed Hammad Aslam",
+    "designation": "Instructor",
+    "role": null,
+    "department": "Game Design and Development",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_11",
+    "text": "Dr. Khalid Hussain is an Assistant Professor in the Department of Artificial Intelligence.",
+    "name": "Dr. Khalid Hussain",
+    "designation": "Assistant Professor",
+    "role": null,
+    "department": "Artificial Intelligence",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_12",
+    "text": "Abdul Haseeb is a Lecturer in the Department of AI-Multimedia Gaming.",
+    "name": "Abdul Haseeb",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "AI-Multimedia Gaming",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_13",
+    "text": "Engr. Muhammad Younis is a Lecturer in the Department of Computer Science.",
+    "name": "Engr. Muhammad Younis",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Computer Science",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_14",
+    "text": "Aurangzeb Magsi is a Lecturer in the Department of Computer Science.",
+    "name": "Aurangzeb Magsi",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Computer Science",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_15",
+    "text": "Arifa is a Lecturer in the Department of Artificial Intelligence.",
+    "name": "Arifa",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Artificial Intelligence",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_16",
+    "text": "Misbah Rajput is a Lecturer in the Department of Artificial Intelligence.",
+    "name": "Misbah Rajput",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Artificial Intelligence",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_17",
+    "text": "Abdul Aziz is a Lecturer in the Department of Artificial Intelligence.",
+    "name": "Abdul Aziz",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Artificial Intelligence",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_18",
+    "text": "Muzzafar Hussain is a Lecturer in the Department of Applied Physics.",
+    "name": "Muzzafar Hussain",
+    "designation": "Lecturer",
+    "role": null,
+    "department": "Applied Physics",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "ai_faculty_19",
+    "text": "Raheel Shabbir is a 3D Instructor and Game Developer.",
+    "name": "Raheel Shabbir",
+    "designation": "Instructor",
+    "role": "Game Developer",
+    "department": "Game Design and Development",
+    "category": "faculty_members",
+    "source": "website"
+  },
+  {
+    "id": "transport_service",
+    "text": "The transport is available for the cities of Sukkur, Khairpur, Pano Aqil, Rohri, Shikarpur, Pir Jo Goth, and Kandhra. Transport fees are 10000 rupees for Sukkur and Rohri, and 20000 rupees for all other cities.",
+    "name": "Transport",
+    "designation": null,
+    "role": null,
+    "department": "Transport Services",
+    "category": "transport",
+    "source": "manual",
+    "fees": {
+      "Sukkur": 10000,
+      "Rohri": 10000,
+      "Khairpur": 20000,
+      "Pano Aqil": 20000,
+      "Shikarpur": 20000,
+      "Pir Jo Goth": 20000,
+      "Kandhra": 20000
+    }
+  },
+  {
+    "id": "hostel_fees_01",
+    "text": "The hostel fee is 30000 per semester and does not include mess.",
+    "name": "Hostel",
+    "designation": null,
+    "role": null,
+    "department": "Hostel Services",
+    "category": "hostel",
+    "source": "manual",
+    "fees_per_semester": 30000,
+    "mess_included": false
+  },
+  {
+    "id": "faq_01",
+    "text": "What programs are offered by the university? The university offers programs in engineering, design, sciences, artificial intelligence, and social sciences.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_02",
+    "text": "What is the duration of a BS degree program? A BS degree program typically has a duration of four years consisting of eight semesters.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_03",
+    "text": "Is there any entry test for admission? Yes, candidates are required to appear in an entry test as part of the admission process.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_04",
+    "text": "How is merit calculated for admission? Merit is calculated based on matriculation, intermediate, entry test, and interview scores.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_05",
+    "text": "Can students apply for multiple programs? Yes, students can apply for multiple programs but must select their preferred discipline.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_06",
+    "text": "Is hostel facility available for students? Yes, the university provides hostel facilities subject to availability.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_07",
+    "text": "Does the university provide transport services? Yes, transport facilities are available for students on designated routes.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_08",
+    "text": "What are the fee payment requirements? Students must pay admission fees at the time of enrollment and semester fees at the beginning of each semester.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_09",
+    "text": "Can students work while studying? No, undergraduate programs are full-time and students are not allowed to engage in employment.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_10",
+    "text": "What happens if a student submits fake documents? Admission will be canceled and legal action may be taken against the student.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_11",
+    "text": "How can I apply for admission? Students can apply through the university’s online admission portal by completing the application form and submitting required documents.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_12",
+    "text": "What documents are required for admission? Students must provide academic certificates, identification documents, and other required records during admission.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_13",
+    "text": "Is there any negative marking in the entry test? No, there is no negative marking in the entry test.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_14",
+    "text": "How many semesters are there in a BS program? A BS program typically consists of eight semesters.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_15",
+    "text": "Can a student change their program after admission? Yes, students can request a change of program within a specified time period and subject to eligibility.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_16",
+    "text": "What is the passing criteria for courses? Students must achieve the minimum required GPA and pass individual courses as per university policy.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_17",
+    "text": "Are scholarships available for students? Scholarships may be offered based on merit or financial need as per university policy.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_18",
+    "text": "What facilities are available on campus? The university provides classrooms, laboratories, libraries, and other academic facilities.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_19",
+    "text": "What career opportunities are available after graduation? Graduates can pursue careers in their respective fields such as engineering, IT, design, research, and management.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_20",
+    "text": "Is attendance mandatory for students? Yes, students are required to maintain attendance as per university rules.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_21",
+    "text": "Can students repeat a course to improve grades? Yes, students can repeat courses to improve their grades as per university policy.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_22",
+    "text": "What is the semester duration? Each semester typically consists of around 16 weeks of teaching.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_23",
+    "text": "Are there summer semesters available? Yes, summer or winter semesters may be offered for course improvement or deficiency removal.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_24",
+    "text": "What is the role of the admission committee? The admission committee reviews applications and makes final decisions regarding admissions.",
+    "category": "faq",
+    "source": "generated"
+  },
+  {
+    "id": "faq_25",
+    "text": "How are merit lists announced? Merit lists are displayed on notice boards and uploaded to the university website.",
+    "category": "faq",
+    "source": "generated"
+  }
+]
